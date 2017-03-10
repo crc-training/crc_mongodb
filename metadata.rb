@@ -1,0 +1,10 @@
+name 'crc_mongodb'
+maintainer 'Jennifer Davis'
+maintainer_email 'iennae@gmail.com'
+license 'apachev2'
+description 'Installs/Configures crc_mongodb'
+long_description 'Installs/Configures crc_mongodb'
+version '0.1.0'
+
+issues_url 'https://github.com/crc-training/crc_mongodb/issues'
+source_url 'https://github.com/crc-training/crc_mongodb'
